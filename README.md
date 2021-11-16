@@ -19,7 +19,7 @@
 - 02__constructor.js
 - 03__prototypes.js
 - 04__inheritence.js
-- 05__object_create.js
+- 05__object__create.js
 - 06__classes.js
 - 07__subclasses.js
 ```
